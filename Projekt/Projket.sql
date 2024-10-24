@@ -1,0 +1,7 @@
+CREATE DATABASE Projekt;
+GO
+
+USE Projekt;
+
+CREATE TABLE 
+
